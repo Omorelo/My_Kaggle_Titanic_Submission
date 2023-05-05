@@ -1,6 +1,6 @@
 # My_Kaggle_Titanic_Submission
 
-This is a Jupyter Notebook contain my submission for the binary prediction competition on Kaggle titled - "Titanic - Machine Learning from Disaster"
+This is a Jupyter Notebook contains my submission for the binary prediction competition on Kaggle titled - "Titanic - Machine Learning from Disaster"
 
 This Kaggle Titanic Submission only contains a logistic regression model. 
 
